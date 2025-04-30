@@ -1,4 +1,4 @@
-# BluePeak Hosting
+# SugarHost
 
 > **Autore**: [Antonino, Davide, Alessandro], Classe 5ª Informatica  
 > **Data**: 30 aprile 2025
@@ -22,7 +22,7 @@
 
 ## Executive Summary
 
-BluePeak Hosting offre soluzioni di web hosting affidabili e scalabili per PMI, freelance e privati, sfruttando un’infrastruttura server proprietaria. Il servizio punta su performance elevate, assistenza 24/7 e prezzi competitivi, con piani modulari che coprono ogni esigenza, dal sito vetrina fino all’e-commerce.
+SugarHost offre soluzioni di web hosting affidabili e scalabili per PMI, freelance e privati, sfruttando un’infrastruttura server proprietaria. Il servizio punta su performance elevate, assistenza 24/7 e prezzi competitivi, con piani modulari che coprono ogni esigenza, dal sito vetrina fino all’e-commerce.
 
 ## Descrizione dell'Azienda
 
@@ -63,7 +63,7 @@ BluePeak Hosting offre soluzioni di web hosting affidabili e scalabili per PMI, 
 
 ## Team e Organizzazione
 
-- **Founder**: [Tuo Nome], competenze in Linux/PHP/Networking.  
+- **Founder**: [Antonino, Davide, Alessandro], competenze in Linux/PHP/Networking.  
 - **Partner tecnico**: Studente 5ª Reti.  
 - **Outsourcing**: Grafica e copywriting affidati a freelance esterni.
 
