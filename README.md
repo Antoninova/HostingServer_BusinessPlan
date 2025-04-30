@@ -1,116 +1,97 @@
-# Hosting-Server - BusinessPlan
-Business Plan per Start-up di Hosting Web
+# BluePeak Hosting
 
-1. Copertina
+> **Autore**: [Antonino, Davide, Alessandro], Classe 5ª Informatica  
+> **Data**: 30 aprile 2025
 
-Titolo: "BluePeak Hosting" (nome provvisorio)
+---
 
-Data: 30 aprile 2025
+## Table of Contents
 
-Autore: [Tuo Nome], classe 4ª Informatica
+1. [Executive Summary](#executive-summary)  
+2. [Descrizione dell'Azienda](#descrizione-dellazienda)  
+3. [Prodotti e Servizi](#prodotti-e-servizi)  
+4. [Analisi di Mercato](#analisi-di-mercato)  
+5. [Strategia di Marketing e Vendite](#strategia-di-marketing-e-vendite)  
+6. [Piano Operativo](#piano-operativo)  
+7. [Team e Organizzazione](#team-e-organizzazione)  
+8. [Piano Finanziario](#piano-finanziario)  
+9. [SWOT](#swot)  
+10. [Appendice](#appendice)
 
-2. Sommario (Indice)
+---
 
-Executive Summary
+## Executive Summary
 
-Descrizione dell'Azienda
+BluePeak Hosting offre soluzioni di web hosting affidabili e scalabili per PMI, freelance e privati, sfruttando un’infrastruttura server proprietaria. Il servizio punta su performance elevate, assistenza 24/7 e prezzi competitivi, con piani modulari che coprono ogni esigenza, dal sito vetrina fino all’e-commerce.
 
-Prodotti e Servizi
+## Descrizione dell'Azienda
 
-Analisi di Mercato
+- **Mission**: Fornire hosting web sicuro, veloce e semplice da gestire.  
+- **Vision**: Diventare punto di riferimento locale per hosting green e personalizzato.  
+- **Forma giuridica**: Ditta individuale o SRL semplificata.  
+- **Risorse tecniche**: Server dedicato con configurazione Linux (Apache/Nginx), backup automatici, certificato SSL gratuito.
 
-Strategia di Marketing e Vendite
+## Prodotti e Servizi
 
-Piano Operativo
+| Piano         | Spazio     | Siti ospitabili | Traffico   | Caratteristiche principali             |
+|---------------|------------|-----------------|------------|----------------------------------------|
+| **Base**      | 5 GB       | 10              | Illimitato | Pannello cPanel                        |
+| **Pro**       | 20 GB      | 30              | Illimitato | Backup giornalieri, staging, supporto chat |
+| **Business**  | 50 GB SSD  | Illimitati      | Illimitato | CDN integrata, monitoraggio uptime     |
 
-Team e Organizzazione
+**Servizi aggiuntivi**: registrazione domini, migrazione gratuita, installazione CMS (WordPress/Joomla).
 
-Piano Finanziario
+## Analisi di Mercato
 
-SWOT
+- **Target**: Piccole-medie imprese, web designer freelance, blog personali.  
+- **Dimensioni mercato**: In Italia oltre 4 milioni di siti attivi con un tasso di crescita del settore hosting del +8% annuo.  
+- **Competitors**: Aruba, SiteGround, Netsons.  
+- **Vantaggio competitivo**: SLA personalizzati e supporto diretto via Telegram/Discord.
 
-Appendice
+## Strategia di Marketing e Vendite
 
-1. Executive SummaryBluePeak Hosting offre soluzioni di web hosting affidabili e scalabili per PMI, freelance e privati, sfruttando un’infrastruttura server proprietaria. Il servizio punta su performance elevate, assistenza 24/7 e prezzi competitivi, con piani modulari che coprono ogni esigenza dal sito vetrina fino all’e-commerce.
+- **Canali**: Sito aziendale ottimizzato SEO, Google Ads, Facebook Ads geolocalizzati, partnership con web agency locali.  
+- **Promozioni**: Sconto lancio 30% per i primi 50 clienti; referral program (10€ di credito per ogni nuovo iscritto).  
+- **Content marketing**: Blog tecnico, tutorial su YouTube, webinar su performance web.
 
-2. Descrizione dell'Azienda
+## Piano Operativo
 
-Mission: Fornire hosting web sicuro, veloce e semplice da gestire.
+1. **Setup iniziale**: Configurazione server, backup, firewall.  
+2. **Supporto**: Ticket system con Zendesk, live chat.  
+3. **Monitoraggio**: Uptime Robot, Zabbix.  
+4. **Scalabilità**: Aggiunta di VPS in load balancing e integrazione CDN esterne.
 
-Vision: Diventare punto di riferimento locale per hosting green e personalizzato.
+## Team e Organizzazione
 
-Forma giuridica: ditta individuale o SRL semplificata.
+- **Founder**: [Tuo Nome], competenze in Linux/PHP/Networking.  
+- **Partner tecnico**: Studente 5ª Reti.  
+- **Outsourcing**: Grafica e copywriting affidati a freelance esterni.
 
-Risorse tecniche: server dedicato con configurazione Linux (Apache/Nginx), backup automatici, certificato SSL gratis.
+## Piano Finanziario
 
-3. Prodotti e Servizi
+- **Costi fissi**:  
+  - Server: €30/mese  
+  - Dominio e SSL: €10/mese  
+  - Licenze cPanel: €15/mese
+- **Costi variabili**: Energia, query di backup cloud (€5/mese), marketing (€200/mese).  
+- **Ricavi previsti**:  
+  - 50 clienti Base a €5/mese  
+  - 20 clienti Pro a €15/mese  
+  - 10 clienti Business a €30/mese  
+  **Fatturato mensile stimato**: €1.200  
+- **Break-even**: Previsto entro 12 mesi.
 
-Piano Base: 5 GB spazio, 10 siti, traffico illimitato, pannello cPanel.
+## SWOT
 
-Piano Pro: 20 GB spazio, 30 siti, backup giornalieri, staging, supporto chat.
+| Fattori       | Positivi                                      | Negativi                               |
+|---------------|-----------------------------------------------|----------------------------------------|
+| **Strengths** | Server proprietario; supporto diretto; prezzi flessibili. |                                        |
+| **Weaknesses**|                                               | Brand poco noto; risorse umane limitate. |
+| **Opportunities** | Mercato in crescita; domanda per hosting green.   |                                        |
+| **Threats**   |                                               | Competizione da grandi provider; fluttuazione costi energia. |
 
-Piano Business: 50 GB spazio SSD NVMe, siti illimitati, CDN integrata, monitoraggio uptime.
+## Appendice
 
-Servizi aggiuntivi: registrazione domini, migrazione gratuita, installazione CMS (WordPress/Joomla).
-
-4. Analisi di Mercato
-
-Target: piccole-medio imprese, web designer freelance, blog personali.
-
-Dimensioni mercato: in Italia oltre 4 milioni di siti attivi, tasso di crescita hosting +8% annuo.
-
-Competitors: Aruba, SiteGround, Netsons; vantaggio competitivo: SLA personalizzati e supporto diretto via Telegram/Discord.
-
-5. Strategia di Marketing e Vendite
-
-Canali: sito aziendale SEO ottimizzato, Google Ads, Facebook Ads geolocalizzati, partnership con web agency locali.
-
-Promozioni: sconto launch 30% per i primi 50 clienti; referral program (10€ di credito per ogni nuovo iscritto).
-
-Content marketing: blog tecnico, tutorial YouTube, webinar su performance web.
-
-6. Piano Operativo
-
-Setup iniziale: configurazione server, backup, firewall.
-
-Supporto: ticket system con Zendesk, live chat.
-
-Monitoraggio: Uptime Robot, Zabbix.
-
-Scalabilità: aggiunta di VPS in load balancing e CDNs esterne.
-
-7. Team e Organizzazione
-
-Founder: [Tuo Nome], 4ª Informatica, competenze Linux/PHP/Network.
-
-Partner tecnico: studente 5ª Reti.
-
-Outsourcing: grafica e copywriting esterni su piattaforma freelance.
-
-8. Piano Finanziario
-
-Costi fissi: server (€30/mese), dominio e SSL (€10/mese), licenze cPanel (€15/mese).
-
-Costi variabili: energia, query backup cloud (€5/mese), marketing (€200/mese).
-
-Ricavi previsti: 50 clienti Base (€5/mese), 20 Pro (€15/mese), 10 Business (€30/mese) → fatturato mensile €1.200.
-
-Break-even: raggiunto entro 12 mesi.
-
-9. SWOT
-
-Strengths: server proprietario; supporto diretto; prezzi flessibili.
-
-Weaknesses: brand poco noto; risorse umane limitate.
-
-Opportunities: mercato in crescita; domanda per hosting green.
-
-Threats: competizione da grandi provider; fluttuazione costi energia.
-
-10. Appendice
-
-Proiezioni finanziarie dettagliate (Excel).
-
-CV del team.
-
-Esempi di contratti standard.
+- Proiezioni finanziarie dettagliate (file Excel).  
+- CV del team.  
+- Esempi di contratti standard.
