@@ -61,7 +61,7 @@ SugarHost offre soluzioni di web hosting affidabili e scalabili per PMI, freelan
 3. **Monitoraggio**: Uptime Robot, Zabbix.  
 4. **Scalabilità**: Aggiunta di VPS in load balancing e integrazione CDN esterne.
 
-## Team e Organizzazione organigramma
+## Team e Organizzazionefsfdsfsfsf
 
 - **Founder**: [Antonino, Davide, Alessandro], competenze in Linux/PHP/Networking.  
 - **Partner tecnico**: Studente 5ª Reti.  
@@ -89,6 +89,11 @@ SugarHost offre soluzioni di web hosting affidabili e scalabili per PMI, freelan
 | **Weaknesses**|                                               | Brand poco noto; risorse umane limitate. |
 | **Opportunities** | Mercato in crescita; domanda per hosting green.   |                                        |
 | **Threats**   |                                               | Competizione da grandi provider; fluttuazione costi energia. |
+
+
+
+
+
 
 ## Diagramma di Gantt
 
