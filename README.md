@@ -30,7 +30,7 @@ SugarHost offre soluzioni di web hosting affidabili e scalabili per PMI, freelan
 
 - **Mission**: Fornire hosting web sicuro, veloce e semplice da gestire.  
 - **Vision**: Diventare punto di riferimento locale per hosting green e personalizzato.  
-- **Forma giuridica**: Ditta individuale o SRL semplificata.  
+- **Forma giuridica**: SRL.  
 - **Risorse tecniche**: Server dedicato con configurazione Linux (Apache/Nginx), backup automatici, certificato SSL gratuito.
 
 ## Prodotti e Servizi
