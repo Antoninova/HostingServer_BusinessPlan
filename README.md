@@ -13,10 +13,12 @@
 4. [Analisi di Mercato](#analisi-di-mercato)  
 5. [Strategia di Marketing e Vendite](#strategia-di-marketing-e-vendite)  
 6. [Piano Operativo](#piano-operativo)  
-7. [Team e Organizzazione](#team-e-organizzazione)  
-8. [Piano Finanziario](#piano-finanziario)  
-9. [SWOT](#swot)  
-10. [Appendice](#appendice)
+7. [Team e Organizzazione, Organigramma funzionale e gerarchico](#team-e-organizzazione)  
+8. [Piano Finanziario](#piano-finanziario) 
+9. [SWOT](#swot)
+10. [TOWS](#tows)
+11. [Diagramma di Gantt](#Gantt)
+12. [Appendice](#appendice)
 
 ---
 
@@ -61,7 +63,7 @@ SugarHost offre soluzioni di web hosting affidabili e scalabili per PMI, freelan
 3. **Monitoraggio**: Uptime Robot, Zabbix.  
 4. **Scalabilità**: Aggiunta di VPS in load balancing e integrazione CDN esterne.
 
-## Team e Organizzazionefsfdsfsfsf
+## Team e Organizzazione
 
 - **Founder**: [Antonino, Davide, Alessandro], competenze in Linux/PHP/Networking.  
 - **Partner tecnico**: Studente 5ª Reti.  
@@ -90,13 +92,9 @@ SugarHost offre soluzioni di web hosting affidabili e scalabili per PMI, freelan
 | **Opportunities** | Mercato in crescita; domanda per hosting green.   |                                        |
 | **Threats**   |                                               | Competizione da grandi provider; fluttuazione costi energia. |
 
+## TOWS
 
-
-
-
-
-## Diagramma di Gantt
-
+## GANTT
 
 ## Appendice
 
