@@ -11,7 +11,7 @@
 2. [Descrizione dell'Azienda](#descrizione-dellazienda)  
 3. [Prodotti e Servizi](#prodotti-e-servizi)  
 4. [Analisi di Mercato](#analisi-di-mercato)
-5. 9. [SWOT](#swot)
+9. [SWOT](#swot)
 10. [TOWS](#tows)
 6. [Strategia di Marketing e Vendite](#strategia-di-marketing-e-vendite)  
 7. [Piano Operativo](#piano-operativo)  
